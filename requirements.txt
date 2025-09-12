@@ -1,0 +1,15 @@
+wandb
+tqdm
+diffusers
+einops
+imageio
+jaxtyping
+jinja2
+lpips
+pytorch_fid
+mmengine
+numpy<2
+pillow
+requests
+timm
+transformers
