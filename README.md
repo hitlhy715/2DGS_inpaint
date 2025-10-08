@@ -21,10 +21,10 @@ Guangming Lu<sup>1</sup></a>
 <sup>3</sup>Nanyang Technological University
 </p>
 
-[<img src="assets/teaser_inp1.png" width="160">](https://streamable.com/e/r0imrp) &nbsp; 
-[<img src="assets/teaser_out1.png" width="160">](https://streamable.com/e/r0imrp) &nbsp; 
-[<img src="assets/teaser_inp2.png" width="160">](https://streamable.com/e/r0imrp) &nbsp; 
-[<img src="assets/teaser_out2.png" width="160">](https://streamable.com/e/r0imrp) 
+[<img src="assets/teaser_inp1.png" width="160">]() &nbsp; 
+[<img src="assets/teaser_out1.png" width="160">]() &nbsp; 
+[<img src="assets/teaser_inp2.png" width="160">]() &nbsp; 
+[<img src="assets/teaser_out2.png" width="160">]() 
 
 </div>
 
